@@ -8,16 +8,22 @@ Team 8 | 대한상공회의소 AI 시스템반도체 설계 2기
 📌 프로젝트 개요
 
 목표: 512-point FFT 구조 RTL 구현 및 FPGA 합성
+
+핵심 기술
+
+
+Butterfly 구조: FFT의 기본 연산 블록 (합/차 및 Twiddle Factor 곱)
+
 <img width="370" height="462" alt="image" src="https://github.com/user-attachments/assets/557bc15d-6ca3-45b5-a96e-1da2e4e837f2" />
+
+CBFP (Convergent Block Floating Point) 적용
+
 <img width="442" height="461" alt="image" src="https://github.com/user-attachments/assets/15918c13-e362-43ab-855f-a0a0adc3b161" />
 
 
 
-핵심 기술
 
-Butterfly 구조: FFT의 기본 연산 블록 (합/차 및 Twiddle Factor 곱)
 
-CBFP (Convergent Block Floating Point) 적용
 
 동적 스케일링으로 고정 소수점 손실 최소화
 
