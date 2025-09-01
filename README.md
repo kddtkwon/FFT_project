@@ -8,6 +8,10 @@ Team 8 | 대한상공회의소 AI 시스템반도체 설계 2기
 📌 프로젝트 개요
 
 목표: 512-point FFT 구조 RTL 구현 및 FPGA 합성
+<img width="370" height="462" alt="image" src="https://github.com/user-attachments/assets/557bc15d-6ca3-45b5-a96e-1da2e4e837f2" />
+<img width="442" height="461" alt="image" src="https://github.com/user-attachments/assets/15918c13-e362-43ab-855f-a0a0adc3b161" />
+
+
 
 핵심 기술
 
